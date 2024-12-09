@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/DblpFolder/resources/background.jpg</file>
+        <file>../../Desktop/DblpFolder/resources/stars-7088_512.gif</file>
+        <file>../../Desktop/DblpFolder/resources/background2.jpg</file>
+        <file>../../Desktop/DblpFolder/resources/AuthorSorting.jpg</file>
+        <file>../../Desktop/DblpFolder/resources/fireworks-9582.gif</file>
+        <file>../../Desktop/DblpFolder/resources/rain-9032_512.gif</file>
+        <file>../../Desktop/DblpFolder/resources/sakura-5470.gif</file>
+    </qresource>
+</RCC>
